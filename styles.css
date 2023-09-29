@@ -10,7 +10,7 @@ body {
     text-align: left;
     margin-top: 20px;
     margin-left: 20px;
-    width: 100%;
+    width: 40%;
 }
 
 input[type="text"] {
@@ -33,7 +33,6 @@ button {
     background-color: #fff;
     border-radius: 5px;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
-    text-align: center;
 }
 
 .hidden {
