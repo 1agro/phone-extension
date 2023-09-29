@@ -3,13 +3,13 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
-    width: 400px;
+    width: 100%
 }
 
 .search-container {
     text-align: left;
     margin-top: 20px;
-    margin-left: 20px;
+    margin-left: 40%;
     width: 100%;
 }
 
@@ -33,6 +33,7 @@ button {
     background-color: #fff;
     border-radius: 5px;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    text-align: center;
 }
 
 .hidden {
