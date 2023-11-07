@@ -18,7 +18,6 @@ const people = [
 { name: 'MATRIZ - FRANCISLAINE', number: '6552' },
 { name: 'MATRIZ - FLAVIA CAMPOS', number: '6554' },
 { name: 'MATRIZ - LEONARDO PEREIRA', number: '6518' },
-{ name: 'MATRIZ - MATHEUS XAVIER', number: '6521' },
 { name: 'MATRIZ - HENRIQUE BARBOSA', number: '6540' },
 { name: 'MATRIZ - GABRIEL MARQUES', number: '6541' },
 { name: 'MATRIZ - SUPORTE', number: '6543' },
