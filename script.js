@@ -87,10 +87,10 @@ const people = [
 { name: 'COMPLEXO - BALANÇA', number: '4761' },
 { name: 'COMPLEXO - BALANÇA', number: '4762' },
 { name: 'COMPLEXO - RH', number: '4763' },
-{ name: 'COMPLEXO - JOICE', number: '4764' },
+{ name: 'COMPLEXO - ELISANGELA', number: '4764' },
 { name: 'COMPLEXO - CASTELAR', number: '4765' },
 { name: 'COMPLEXO - AGRICULTURA DIGITAL', number: '4767' },
-{ name: 'COMPLEXO - SUELANI OLIVEIRA', number: '4768' },
+{ name: 'COMPLEXO - NEI PICCO', number: '4768' },
 { name: 'COMPLEXO - NAYARA FREITAS', number: '4769' },
 { name: 'COMPLEXO - MARCO DORNELES', number: '4770' },
 { name: 'COMPLEXO - SALA DE REUNIAO', number: '4771' },
@@ -98,6 +98,26 @@ const people = [
 { name: 'COMPLEXO - ALMOXARIFADO', number: '4774' },
 { name: 'COMPLEXO - STAFF', number: '4775' },
 
+//Globo
+{ name: 'Globo - Recep', number: '4800' },
+{ name: 'Globo - Joseane', number: '4801' },
+{ name: 'Globo - PCM', number: '4802' },
+{ name: 'Globo - Joao Victor', number: '4803' },
+{ name: 'Globo - Balanca', number: '4804' },
+{ name: 'Globo - COA', number: '4805' },
+{ name: 'Globo - Coord Oficina', number: '4806' },
+{ name: 'Globo - Fiscal', number: '4807' },
+{ name: 'Globo - Cantina', number: '4808' },
+{ name: 'Globo - TST Jeferson', number: '4809' },
+{ name: 'Globo - Gerente', number: '4810' },
+{ name: 'Globo - Almox', number: '4811' },
+{ name: 'Globo - SL Tecnica', number: '4812' },
+{ name: '4813', number: '4813' },
+{ name: 'Globo - Pcm Ana', number: '4814' },
+{ name: 'Globo - Roberto', number: '4815' },
+
+
+    
 
 //SM3
 { name: 'SM3 - RECEPCAO', number: '6900' },    
@@ -119,7 +139,7 @@ const people = [
 { name: 'SM3 - Gabrielly Almox', number: '6916' },
 { name: 'SM3 - PCM', number: '6917' },
 { name: 'SM3 - Coord Manutencao', number: '6918' },
-{ name: 'SM3 - RH', number: '6919' }
+{ name: 'SM3 - RH', number: '6919' },
 
     
     
@@ -162,15 +182,18 @@ const people = [
 { name: 'GLOBO - CANTINA', number: '4812' },
 
 //Siriema
-{ name: 'SIRIEMA - ALINE', number: '4900' },
-{ name: 'SIRIEMA - NAYARA', number: '4901' },
-{ name: 'SIRIEMA - AMANDA', number: '4902' },
-{ name: 'SIRIEMA - FLAVIA', number: '4903' },
-{ name: 'SIRIEMA - PCM-COORDENADOR', number: '4904' },
-{ name: 'SIRIEMA - PCM', number: '4905' },
-{ name: 'SIRIEMA - ALMOXARIFADO', number: '4907' },
-{ name: 'SIRIEMA - ALMOXARIFADO', number: '4908' },
+{ name: 'SIR - WESLANE', number: '4900' },
+{ name: 'SIR - NAYARA TEC-SEG', number: '4901' },
+{ name: 'RH - MARIA EDUARDA', number: '4902' },
+{ name: 'SIR - FLAVIA', number: '4903' },
+{ name: 'SIR - PCM COORDENADOR', number: '4904' },
+{ name: 'SIR - PCM', number: '4905' },
+{ name: 'SIR - SALA DE REUNIAO', number: '4906' },
+{ name: 'SIR - ALMOXARIFADO', number: '4907' },
+{ name: 'SIR - ALMOXARIFADO', number: '4908' },
+{ name: 'SAO MIGUEL', number: '4909' },
 
+    
 //Três Flechas
 { name: 'TRÊS FLECHAS - SSO', number: '6700' },
 { name: 'TRÊS FLECHAS - PCP', number: '6701' },
@@ -191,18 +214,23 @@ const people = [
 { name: 'TRÊS FLECHAS - ALMOXARIFADO PEÇAS', number: '6716' },
 
 //Guapirama
-{ name: 'GUAPIRAMA - RH', number: '5000' },
-{ name: 'GUAPIRAMA - TEC SEGURANÇA', number: '5001' },
-{ name: 'GUAPIRAMA - GUAP', number: '5002' },
-{ name: 'GUAPIRAMA - RENAN', number: '5003' },
-{ name: 'GUAPIRAMA - KAMILA', number: '5004' },
-{ name: 'GUAPIRAMA - RAFAEL PORTO', number: '5005' },
-{ name: 'GUAPIRAMA - ALMOXARIFADO', number: '5007' },
-{ name: 'GUAPIRAMA - ALMOXARIFADO', number: '5008' },
-{ name: 'GUAPIRAMA - GUAP', number: '5009' },
-{ name: 'GUAPIRAMA - GER MATHEUS', number: '5010' },
-{ name: 'GUAPIRAMA - GUAP', number: '5011' },
-{ name: 'GUAPIRAMA - BALANÇA', number: '5012' },
+{ name: 'GUAPI - RECEPCAO', number: '5000' },
+{ name: 'GUAPI - TEC SEGURANCA', number: '5001' },
+{ name: 'GUAPI - COA KAMILA', number: '5002' },
+{ name: 'GUAPI - LUCAS', number: '5003' },
+{ name: 'GUAPI - COORD MANUTENCAO', number: '5004' },
+{ name: 'GUAPI - COORD ADM', number: '5005' },
+{ name: 'GUAPI - MESA DE REUNIAO', number: '5006' },
+{ name: 'GUAPI - ALMOXARIFADO', number: '5007' },
+{ name: 'GUAPI - ALMOXARIFADO', number: '5008' },
+{ name: 'GUAPI - NOMEAR', number: '5009' },
+{ name: 'GUAPI - GERENTE MATHEUS', number: '5010' },
+{ name: 'GUAPI - COORD ADM', number: '5011' },
+{ name: 'GUAPI - BALANCA', number: '5012' },
+{ name: 'GUAPI - NOMEAR', number: '5013' },
+{ name: 'GUAPI - NOMEAR', number: '5014' },
+{ name: 'GUAPI - RH', number: '5015' },
+{ name: 'GUAPI - NOMEAR', number: '5016' },
 
 //São Miguel
 { name: 'SÃO MIGUEL', number: '4909' },
