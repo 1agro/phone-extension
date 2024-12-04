@@ -80,7 +80,7 @@ const people = [
 { name: 'MATRIZ - THIAGO BORGES', number: '6586' },
 { name: 'MATRIZ - THYFANI', number: '6587' },    
 { name: 'MATRIZ - ELTON', number: '6588' },    
-    
+{ name: 'MATRIZ - STEFANO', number: '6589' },    
     
 //Complexo
 { name: 'COMPLEXO - DEBORA', number: '4750' },
