@@ -69,7 +69,7 @@ const people = [
 { name: 'MATRIZ - SALA DE ATENDIMENTO', number: '6558' },
 { name: 'MATRIZ - SALA DE REUNIAO 01', number: '6560' },
 { name: 'MATRIZ - SALA DE REUNIAO 02', number: '6559' },
-{ name: 'MATRIZ - BEATRIZ VACILIO', number: '6581' },
+{ name: 'MATRIZ - CARLOS PERALTA', number: '6581' },
 { name: 'MATRIZ - MAIKON LARA', number: '6544' },
 { name: 'MATRIZ - MATHEUS XAVIER', number: '6525' },
 { name: 'MATRIZ - COPA', number: '6573' },
