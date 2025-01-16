@@ -91,7 +91,7 @@ const people = [
 { name: 'COMPLEXO - CASTELAR', number: '4765' },
 { name: 'COMPLEXO - AGRICULTURA DIGITAL', number: '4767' },
 { name: 'COMPLEXO - NEI PICCO', number: '4768' },
-{ name: 'COMPLEXO - NAYARA FREITAS', number: '4769' },
+{ name: 'COMPLEXO - SSO COMPLEXO', number: '4769' },
 { name: 'COMPLEXO - MARCO DORNELES', number: '4770' },
 { name: 'COMPLEXO - SALA DE REUNIAO', number: '4771' },
 { name: 'COMPLEXO - PROCESSOS AGRICOLAS', number: '4772' },
@@ -108,7 +108,7 @@ const people = [
 { name: 'Globo - Coord Oficina', number: '4806' },
 { name: 'Globo - Fiscal', number: '4807' },
 { name: 'Globo - Cantina', number: '4808' },
-{ name: 'Globo - TST Jeferson', number: '4809' },
+{ name: 'Globo - SSO Globo', number: '4809' },
 { name: 'Globo - Gerente', number: '4810' },
 { name: 'Globo - Almox', number: '4811' },
 { name: 'Globo - SL Tecnica', number: '4812' },
@@ -148,7 +148,7 @@ const people = [
 { name: 'BACABA - RAQUILES', number: '6601' },
 { name: 'BACABA - FISCAL', number: '6602' },
 { name: 'BACABA - PCP', number: '6603' },
-{ name: 'BACABA - ELVES SILVA', number: '6604' },
+{ name: 'BACABA - SSO BACABA', number: '6604' },
 { name: 'BACABA - PCM', number: '6605' },
 { name: 'BACABA - THIAGO', number: '6607' },
 { name: 'BACABA - ENEIAS', number: '6608' },
@@ -183,7 +183,7 @@ const people = [
 
 //Siriema
 { name: 'SIR - WESLANE', number: '4900' },
-{ name: 'SIR - NAYARA TEC-SEG', number: '4901' },
+{ name: 'SIR - SSO SIRIEMA', number: '4901' },
 { name: 'RH - MARIA EDUARDA', number: '4902' },
 { name: 'SIR - FLAVIA', number: '4903' },
 { name: 'SIR - PCM COORDENADOR', number: '4904' },
@@ -237,7 +237,7 @@ const people = [
 
 //Dourado
 { name: 'DOURADO - RH', number: '6800' },
-{ name: 'DOURADO - JEFFERSON', number: '6801' },
+{ name: 'DOURADO - SSO DOURADO', number: '6801' },
 { name: 'DOURADO - RONY', number: '6807' },
 { name: 'DOURADO - ALLAN', number: '6809' },
 { name: 'DOURADO - ROBERIO LOPES', number: '6810' },
