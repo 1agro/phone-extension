@@ -38,7 +38,7 @@ const people = [
 { name: 'MATRIZ - MAICON LEIZ', number: '6533' },
 { name: 'MATRIZ - ERNANDES', number: '6534' },
 { name: 'MATRIZ - KAROLINE MATOS', number: '6535' },
-{ name: 'MATRIZ - GEAN HENRIQUE', number: '6563' },
+{ name: 'MATRIZ - JACKELINY OLIVEIRA', number: '6563' },
 { name: 'MATRIZ - GISLAYNE CRUZ', number: '6536' },
 { name: 'MATRIZ - CARLOS VITOR', number: '6537' },
 { name: 'MATRIZ - ALESANDRO LIMA', number: '6574' },
