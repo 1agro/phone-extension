@@ -238,7 +238,7 @@ const people = [
 //Dourado
 { name: 'DOURADO - RH', number: '6800' },
 { name: 'DOURADO - SSO DOURADO', number: '6801' },
-{ name: 'DOURADO - RONY', number: '6807' },
+{ name: 'DOURADO - ALMOXARIFADO DOURADO', number: '6807' },
 { name: 'DOURADO - ALLAN', number: '6809' },
 { name: 'DOURADO - ROBERIO LOPES', number: '6810' },
 { name: 'DOURADO - DANIEL', number: '6811' },
