@@ -112,7 +112,7 @@ const people = [
 { name: 'Globo - Gerente', number: '4810' },
 { name: 'Globo - Almox', number: '4811' },
 { name: 'Globo - SL Tecnica', number: '4812' },
-{ name: '4813', number: '4813' },
+{ name: 'Globo - Romaro', number: '4813' },
 { name: 'Globo - Pcm Ana', number: '4814' },
 { name: 'Globo - Roberto', number: '4815' },
 
