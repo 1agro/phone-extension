@@ -250,7 +250,16 @@ const people = [
 { name: 'DOURADO - SUEDI', number: '6816' },
 { name: 'DOURADO - SALA DE REUNIAO', number: '6817' },
 { name: 'DOURADO - GUARITA', number: '6825' },
+
+
+//Nebraska; 
+
+{ name: 'NEBRASKA - PCM', number: '6604' },
+{ name: 'NEBRASKA - BALANCA', number: '6609' },
+{ name: 'NEBRASKA - ALMOXARIFADO', number: '6612' },
+{ name: 'NEBRASKA - ALMOXARIFADO', number: '6614' },
 ];
+
 
 function searchPerson() {
     const searchInput = document.getElementById('search-input').value.toLowerCase();
