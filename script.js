@@ -62,7 +62,7 @@ const people = [
 { name: 'MATRIZ - LIDIANE', number: '6579' },
 { name: 'MATRIZ - BRUNO OLIVEIRA', number: '6524' },
 { name: 'MATRIZ - DANNA FARES', number: '6538' },
-{ name: 'MATRIZ - VITORIA SOUZA', number: '6539' },
+{ name: 'MATRIZ - CIBELE VILLA', number: '6539' },
 { name: 'MATRIZ - NATHALIA BENEVIDES', number: '6553' },
 { name: 'MATRIZ - RAFAEL SETUBAL', number: '6542' },
 { name: 'MATRIZ - VINICIUS LIBERALI', number: '6577' },
