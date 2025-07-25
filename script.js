@@ -249,6 +249,7 @@ const people = [
 { name: 'DOURADO - ALEF', number: '6818' },
 { name: 'DOURADO - SUEDI', number: '6816' },
 { name: 'DOURADO - SALA DE REUNIAO', number: '6817' },
+{ name: 'DOURADO - DELZA ROSALINA', number: '6820' },
 { name: 'DOURADO - GUARITA', number: '6825' },
 
 
