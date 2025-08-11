@@ -85,7 +85,7 @@ const people = [
 //Complexo
 { name: 'COMPLEXO - DEBORA', number: '4750' },
 { name: 'COMPLEXO - BALANÇA', number: '4761' },
-{ name: 'COMPLEXO - BALANÇA', number: '4762' },
+{ name: 'COMPLEXO - ANGELICA', number: '4762' },
 { name: 'COMPLEXO - RH', number: '4763' },
 { name: 'COMPLEXO - ELISANGELA', number: '4764' },
 { name: 'COMPLEXO - CASTELAR', number: '4765' },
