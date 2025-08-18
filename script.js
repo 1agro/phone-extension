@@ -245,7 +245,7 @@ const people = [
 { name: 'DOURADO - ALMOXARIFADO', number: '6812' },    
 { name: 'DOURADO - PCM', number: '6813' },
 { name: 'DOURADO - BALANÇA', number: '6814' },
-{ name: 'DOURADO - FISCAL', number: '6815' },
+{ name: 'DOURADO - PAULA KAROLYNA', number: '6815' },
 { name: 'DOURADO - ALEF', number: '6818' },
 { name: 'DOURADO - SUEDI', number: '6816' },
 { name: 'DOURADO - SALA DE REUNIAO', number: '6817' },
