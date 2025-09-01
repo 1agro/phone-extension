@@ -184,7 +184,7 @@ const people = [
 //Siriema
 { name: 'SIR - WESLANE', number: '4900' },
 { name: 'SIR - SSO SIRIEMA', number: '4901' },
-{ name: 'RH - MARIA EDUARDA', number: '4902' },
+{ name: 'JAMILLE SANTOS', number: '4902' },
 { name: 'SIR - FLAVIA', number: '4903' },
 { name: 'SIR - PCM COORDENADOR', number: '4904' },
 { name: 'SIR - PCM', number: '4905' },
