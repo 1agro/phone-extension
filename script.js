@@ -241,18 +241,21 @@ const people = [
 { name: 'DOURADO - ALMOXARIFADO DOURADO', number: '6807' },
 { name: 'DOURADO - ALLAN', number: '6809' },
 { name: 'DOURADO - ROBERIO LOPES', number: '6810' },
-{ name: 'DOURADO - DANIEL', number: '6811' },
-{ name: 'DOURADO - ALMOXARIFADO', number: '6812' },    
-{ name: 'DOURADO - PCM', number: '6813' },
-{ name: 'DOURADO - BALANÇA', number: '6814' },
+{ name: 'DOURADO - PCM', number: '6811' },   
 { name: 'DOURADO - PAULA KAROLYNA', number: '6815' },
-{ name: 'DOURADO - ALEF', number: '6818' },
 { name: 'DOURADO - SUEDI', number: '6816' },
-{ name: 'DOURADO - SALA DE REUNIAO', number: '6817' },
-{ name: 'DOURADO - DELZA ROSALINA', number: '6820' },
-{ name: 'DOURADO - GUARITA', number: '6825' },
+{ name: 'DOURADO - BALANCA', number: '6817' },
+{ name: 'DOURADO - MANUTENCAO', number: '6818' },
+{ name: 'DOURADO - COA', number: '6819' },
+{ name: 'DOURADO - FISCAL PECUARIA', number: '6820' },
+{ name: 'DOURADO - CANTINA', number: '6826' },
+{ name: 'DOURADO - SALA DE REUNIAO', number: '6827' },
+{ name: 'DOURADO - CONFINAMENTO', number: '6828' },
+{ name: 'DOURADO - COP RASTREABILIDADE', number: '6829' },
+{ name: 'DOURADO - JOSE VALMIR', number: '6830' },
+{ name: 'DOURADO - JOELSON', number: '6831' },    
 
-
+    
 //Nebraska; 
 
 { name: 'NEBRASKA - PCM', number: '6604' },
