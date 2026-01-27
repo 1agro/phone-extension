@@ -73,7 +73,7 @@ const people = [
 { name: 'MATRIZ - FLAVIO SUPRI', number: '6583' },
 { name: 'MATRIZ - FERNANDO', number: '6585' },
 { name: 'MATRIZ - THYFANI', number: '6587' },    
-{ name: 'MATRIZ - ELTON', number: '6588' },    
+{ name: 'MATRIZ - THAMYRES ANJOS', number: '6588' },    
 { name: 'MATRIZ - STEFANO', number: '6589' },    
     
 //Complexo
