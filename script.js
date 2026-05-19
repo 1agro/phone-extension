@@ -59,6 +59,7 @@ const people = [
 { name: 'MATRIZ - MARIANE  ', number: '6591' },
 { name: 'MATRIZ - MARIA EDUARDA ', number: '6594' },
 { name: 'MATRIZ - LUCIANA ', number: '6564' },
+{ name: 'MATRIZ - WANDERLEIA  ', number: '6568' },
 { name: 'MATRIZ - MARIA SANTO - TRIBUTARIO', number: '6572' },
 { name: 'MATRIZ - DHIOGO RENAN - TRIBUTARIO', number: '6575' },
 { name: 'MATRIZ - LIDIANE - TRIBUTARIO', number: '6579' },
