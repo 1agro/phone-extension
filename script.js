@@ -51,6 +51,7 @@ const people = [
 { name: 'MATRIZ - SUENI ASSIS - QUALIDADE', number: '6557' },
 { name: 'MATRIZ - PAULO BARONE - FINANCEIRO', number: '6521' },
 { name: 'MATRIZ - TABATA VASCONCELOS - FINANCEIRO', number: '6527' },
+{ name: 'MATRIZ - THYFANI - FINANCEIRO', number: '6587' },
 { name: 'MATRIZ - MARIA HELENA - FINANCEIRO', number: '6528' },
 { name: 'MATRIZ - YASMIN SANTOS - FINANCEIRO', number: '6513' },
 { name: 'MATRIZ - FABIO - FISCAL E TRIBUTARIO', number: '6523' },
