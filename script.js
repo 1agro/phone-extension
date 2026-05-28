@@ -82,7 +82,7 @@ const people = [
 { name: 'MATRIZ - SALA DE REUNIAO 02', number: '6559' },
 { name: 'MATRIZ - CARLOS PERALTA - TI', number: '6581' },
 { name: 'MATRIZ - MAIKON LARA - TI', number: '6544' },
-{ name: 'MATRIZ - MATHEUS XAVIER TI', number: '6525' },
+{ name: 'MATRIZ - JOAO- TI', number: '6525' },
 { name: 'MATRIZ - COPA', number: '6573' },
 { name: 'MATRIZ - MONITOR TEMP', number: '6576' },
 { name: 'MATRIZ - GLADSON - COMEFRCIAL', number: '6582' },
@@ -90,6 +90,8 @@ const people = [
 { name: 'MATRIZ - FERNANDO - SUPERVIDOR ADMINISTRATIVO', number: '6585' },
 { name: 'MATRIZ - THYFANI - FINANCEIRO', number: '6587' },    
 { name: 'MATRIZ - THAMYRES ANJOS - RH', number: '6588' },    
+{ name: 'MATRIZ - EDUARDO - TI', number: '7100' },  
+{ name: 'MATRIZ - VITOR - TI', number: '7101' },  
 { name: 'MATRIZ - STEFANO - TI', number: '6589' },    
     
 //Complexo
