@@ -95,7 +95,7 @@ const people = [
 { name: 'MATRIZ - STEFANO - TI', number: '6589' },    
     
 //Complexo
-{ name: 'COMPLEXO - DEBORA', number: '4750' },
+{ name: 'COMPLEXO - DEBORA', number: '4774' },
 { name: 'COMPLEXO - BALANÇA', number: '4761' },
 { name: 'COMPLEXO - ANGELICA', number: '4762' },
 { name: 'COMPLEXO - RH', number: '4763' },
@@ -107,7 +107,7 @@ const people = [
 { name: 'COMPLEXO - MARCO DORNELES', number: '4770' },
 { name: 'COMPLEXO - SALA DE REUNIAO', number: '4771' },
 { name: 'COMPLEXO - PROCESSOS AGRICOLAS', number: '4772' },
-{ name: 'COMPLEXO - ALMOXARIFADO', number: '4774' },
+{ name: 'COMPLEXO - ALMOXARIFADO', number: '4750' },
 { name: 'COMPLEXO - STAFF', number: '4775' },
 
 //Globo
